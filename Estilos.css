@@ -11,9 +11,10 @@
     
     body{
     
-    background-image: url("Fondo.jpg");
+    background-image: url("fotoo.jpg");
     
     background-repeat: no-repeat;
+    background-size: cover;
     
     }
     
@@ -51,13 +52,13 @@
     
     }
     
-    .texto{
+    .Texto{
     
     font-size: 40px;
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
