@@ -9,7 +9,7 @@
     
     
     
-    body{
+    .body{
     
     background-image: url("fotoo.jpg");
     
@@ -17,6 +17,15 @@
     background-size: cover;
     
     }
+
+    .FT{
+    
+        background-image: url("Fondo3.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
     
     
     
@@ -63,4 +72,53 @@
      
     
     }
-    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("OM.jpg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        
