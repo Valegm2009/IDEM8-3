@@ -33,11 +33,18 @@
         background-repeat: no-repeat;
         background-size: cover;
         
-        }
+        }.Fondoreligion{
+    
+            background-image: url("Fondo\ religion.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
         
         .Fondosoci2{
     
-            background-image: url("Fondo1.jpg");
+            background-image: url("Fondo\ Sociales.jpg");
             
             background-repeat: no-repeat;
             background-size: cover;
@@ -52,10 +59,18 @@
                 background-size: cover;
                 
                 }
-
-    .FT{
+                .Fondoingles{
     
-        background-image: url("Fondo3.jpg");
+                    background-image: url("Fondo\ ingles.jpg");
+                    
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    
+                    }
+
+    .Fondomate{
+    
+        background-image: url("Fondomatematicas.jpeg");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -147,13 +162,82 @@
         
         .textotecno{
         
-        text-align: justify;
-        
-        color: rgb(0, 0, 0);
-        
-        font-size: 20px;
-        
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+    
+            width: 500%;
+    
+            height: 200px;
+            
         
         
         }
         
+        .textomatematicas{
+
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+    
+            width: 500%;
+    
+            height: 200px;
+            
+
+        }
+        .textoingles{
+
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+    
+            width: 500%;
+    
+            height: 200px;
+            
+
+        }
+
+        .textobiologia{
+
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+    
+            width: 500%;
+    
+            height: 200px;
+            
+
+        }
+
+        .textoreligion{
+
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+    
+            width: 500%;
+    
+            height: 200px;
+            
+
+        }
+        
+        
+        
+        
+        
+        
+            
