@@ -34,6 +34,17 @@
         background-size: cover;
         
         }
+
+        .fondotec3{
+    
+            background-image: url("Fondo\ tecnologia.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+
+
         .Fondoreligion{
     
             background-image: url("Fondo\ religion.jpg");
@@ -249,7 +260,65 @@
 
         }
         
+        .Textotec3{
+    
+            font-size: 38px;
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+        }
         
+
+        
+        .Textosoci3{
+    
+            font-size: 38px;
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+        }
+
+        .imageninfografia{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 2000px;
+            
+            width: 800px;
+            
+            margin-left: 10px;
+            
+            margin-right:10px;
+            
+            background-image: url("Infografia.jpg");
+            
+            }
+
+
+        
+        .Textomat3{
+    
+            font-size: 38px;
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+        }
+        
+        .Textoin3{
+    
+            font-size: 38px;
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+        }
         
         
         
