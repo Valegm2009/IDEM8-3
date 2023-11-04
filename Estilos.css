@@ -301,6 +301,27 @@
             }
 
 
+            .imageningles{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 2000px;
+                
+                width: 800px;
+                
+                margin-left: 10px;
+                
+                margin-right:10px;
+                
+                background-image: url("Ingles\ .jpg");
+                
+                }
+
+
         
         .Textomat3{
     
